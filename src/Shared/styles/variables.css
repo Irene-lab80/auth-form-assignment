@@ -1,0 +1,10 @@
+:root {
+  /* Colors */
+  --black: #161616;
+
+  /* Fonts */
+  --font-h1: 700 200px/100% Manrope, sans-serif;
+  
+  /* delay */
+  --hover-delay: 0.3s;
+}

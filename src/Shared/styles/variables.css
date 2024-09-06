@@ -1,6 +1,14 @@
 :root {
   /* Colors */
   --black: #161616;
+  --blue: #007bff;
+
+  --white: #ffffff;
+  --grey: #d3d0d0;
+  --error: #ff0000;
+  --light-blue: #61adec1a;
+  --light-blue-border: #61adec;
+
 
   /* Fonts */
   --font-h1: 700 200px/100% Manrope, sans-serif;

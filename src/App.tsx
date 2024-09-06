@@ -1,4 +1,4 @@
-import { LoginForm } from "./Features/LoginForm";
+import { LoginForm } from "./Features";
 
 function App() {
   return <LoginForm />;

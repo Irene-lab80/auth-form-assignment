@@ -1,0 +1,23 @@
+.inputWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.input {
+  padding: 12px;
+  background: transparent;
+  border-radius: 4px;
+  border: 1px solid var(--grey);
+}
+
+.inputError {
+  padding: 12px;
+  background: transparent;
+  border-radius: 4px;
+  border: 1px solid var(--error);
+}
+
+.error {
+  color: var(--error);
+}
